@@ -11,7 +11,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent
 DEBS = ROOT / "debs"
-DEPICTION = "https://madramdesign.github.io/nxicontime/depiction.json"
+DEPICTION = "https://madramdesign.github.io/repo/depiction.json"
 
 
 def deb_control(path: Path):
@@ -104,14 +104,14 @@ def main() -> None:
     stamp = datetime.now(timezone.utc).strftime("%a, %d %b %Y %H:%M:%S +0000")
     release = "\n".join(
         [
-            "Origin: NXIconTime",
-            "Label: NXIconTime",
+            "Origin: repo",
+            "Label: repo",
             "Suite: stable",
             "Version: 1.0",
             "Codename: ios",
             "Architectures: iphoneos-arm64e",
             "Components: main",
-            "Description: NXIconTime, a home screen clock icon.",
+            "Description: Sileo package source.",
             f"Date: {stamp}",
             digest_block("MD5Sum:", files),
             digest_block("SHA1:", files),

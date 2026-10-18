@@ -1,21 +1,21 @@
-Origin: NXIconTime
-Label: NXIconTime
+Origin: repo
+Label: repo
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm64e
 Components: main
-Description: NXIconTime, a home screen clock icon.
-Date: Sun, 18 Oct 2026 13:45:47 +0000
+Description: Sileo package source.
+Date: Sun, 18 Oct 2026 13:48:40 +0000
 MD5Sum:
- 3eeae4a5b6ce07e25eb367f5786f4e72 503 Packages
- 1b799b638ee01b70a7d6dd8f997b921f 366 Packages.gz
- 4d0d2f915d82ad3cfce5381239a562da 408 Packages.bz2
+ 1201c12f9be5dde5e1c9810c7cd4b4f7 497 Packages
+ b18486075fb5ccc9530676724f24ef31 365 Packages.gz
+ b4808ffedf94373801cef5fb2cf9d0e6 408 Packages.bz2
 SHA1:
- 27b5291bc32e8b3a54c8c29c0dec170c3bf37de4 503 Packages
- ce64a9e19d3a1925fa7b3284c36590cebe580e0a 366 Packages.gz
- 2986ee94246c81d6a34b2a3009a3a8e4b2a908ef 408 Packages.bz2
+ 0cee70e23585fdf8e37e8bcfe5d3643a0f1d153f 497 Packages
+ 218ceb4868594df09f14fed1fcfd65864a814829 365 Packages.gz
+ 51922ec986ca0289e9bc1209676ca4126b89e432 408 Packages.bz2
 SHA256:
- ae2bbaf6d34197227b30fa60834c34b20575ef4dff9b3ec1603fe31560547181 503 Packages
- ddce72ce9026dba60fc6473419e46ad216b39c954435dd73873b2ed589a31096 366 Packages.gz
- 870aa38a10638e252d20ef76a97616be33ccc1ed0ecf0c6b4737e65574a31c9e 408 Packages.bz2
+ e0eeedfea1494f8f35b6a96a84598195589345ad3f0d8e04edf9f011b78fe5e6 497 Packages
+ b83a6fbd71807e7c5e733ae95a3049343f4202d3f523c910009b3e95497b93a2 365 Packages.gz
+ 9b0e3e4ba3d39aa38cba521f8e6e00fea074647e8cfb23d3f1c115c9b3f2a0a8 408 Packages.bz2
