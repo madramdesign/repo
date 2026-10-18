@@ -6,16 +6,16 @@ Codename: ios
 Architectures: iphoneos-arm64e
 Components: main
 Description: Sileo package source.
-Date: Sun, 18 Oct 2026 14:02:02 +0000
+Date: Sun, 18 Oct 2026 14:07:45 +0000
 MD5Sum:
- a3f1574e0f4ef64643a5a09edb19082d 1993 Packages
- 2f5c9fcadc731bcdd696d1601a8dc9e5 681 Packages.gz
- 25f86a69037bf178764dfd5b2b24cd41 800 Packages.bz2
+ 8eb54ad557d30f411493bafce061789a 2492 Packages
+ 9f9d194205f0ae7235a895a3bc60790f 783 Packages.gz
+ d319fafdce25776a00acd7b9d8a72fc0 953 Packages.bz2
 SHA1:
- 9a4e2654f56d167545f1f60c58c798588491f182 1993 Packages
- 2342da33a4ef26b180a1e4a8b38bc03488df2b2e 681 Packages.gz
- fa85a393042bc32dee7e00f138e5e92fce8b0306 800 Packages.bz2
+ 0b47fcd5ca5b9e12a0bd53db2aaf750f64b0650e 2492 Packages
+ aa1fef177357ef909092af4cb35ca20c8ffd95ec 783 Packages.gz
+ 8d14b8e020e86a17a4744ce37cd316303cb2a373 953 Packages.bz2
 SHA256:
- 43e6925ef8cbf48dd752caf19ea4d74499da75cd6c4ffb0bab1bd89fb09c1f88 1993 Packages
- 95e915051aa4d784503b1f132656a06ade355c5d5a08b046f682b176d1c3c4ac 681 Packages.gz
- fb75a8ef66bb32552568fb8804e45cc1f255ebbd5aedcb4012ebdff2d4fe97a5 800 Packages.bz2
+ 2c17033a9da881841591571f1d352639ff7e46a3277509981bad943b025ac3a7 2492 Packages
+ feb683d55b020786f0dfbeb74fa9dff35f4db2de86a596cd6b3da399d5cb4455 783 Packages.gz
+ 06c8e83cafe7dc899672ff9741ec7c16e5cdf6afae90794527e5420b4bb5e4d5 953 Packages.bz2
