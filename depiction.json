@@ -1,0 +1,17 @@
+{
+  "minVersion": "0.1",
+  "tabs": [
+    {
+      "tabname": "Details",
+      "views": [
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "One home screen icon with an Apple-style clock face.\n\nInstall and update this package from Sileo. Refresh sources after a new version is published. GitHub Pages can take a few minutes to show the new package.",
+          "useSpacing": true
+        }
+      ],
+      "class": "DepictionStackView"
+    }
+  ],
+  "class": "DepictionTabView"
+}

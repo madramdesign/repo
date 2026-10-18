@@ -1,0 +1,21 @@
+Origin: NXIconTime
+Label: NXIconTime
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm64e
+Components: main
+Description: NXIconTime, a home screen clock icon.
+Date: Sun, 18 Oct 2026 13:45:47 +0000
+MD5Sum:
+ 3eeae4a5b6ce07e25eb367f5786f4e72 503 Packages
+ 1b799b638ee01b70a7d6dd8f997b921f 366 Packages.gz
+ 4d0d2f915d82ad3cfce5381239a562da 408 Packages.bz2
+SHA1:
+ 27b5291bc32e8b3a54c8c29c0dec170c3bf37de4 503 Packages
+ ce64a9e19d3a1925fa7b3284c36590cebe580e0a 366 Packages.gz
+ 2986ee94246c81d6a34b2a3009a3a8e4b2a908ef 408 Packages.bz2
+SHA256:
+ ae2bbaf6d34197227b30fa60834c34b20575ef4dff9b3ec1603fe31560547181 503 Packages
+ ddce72ce9026dba60fc6473419e46ad216b39c954435dd73873b2ed589a31096 366 Packages.gz
+ 870aa38a10638e252d20ef76a97616be33ccc1ed0ecf0c6b4737e65574a31c9e 408 Packages.bz2
