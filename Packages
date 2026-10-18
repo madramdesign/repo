@@ -11,3 +11,17 @@ MD5sum: ddf0fbc719515aef6c1baf397d36d505
 SHA1: c1fb8a683cf279fd7dad8e7f0de2cd54d1c947e7
 SHA256: 45037ab5bfd59dc06239aeb306bb5ec0d9c73323645b7c2975fef72e49ce7a75
 SileoDepiction: https://madramdesign.github.io/repo/depiction.json
+
+Package: com.nyxian.nxicontime
+Name: NXIconTime
+Version: 0.5.2
+Architecture: iphoneos-arm64e
+Maintainer: local
+Section: Tweaks
+Description: One home screen icon with an Apple-style clock face.
+Filename: ./debs/com.nyxian.nxicontime_0.5.2_iphoneos-arm64e.deb
+Size: 4836
+MD5sum: 842e2bf0f9ad47beab1ea464dbed80e4
+SHA1: c16f471bd156895d29d1651ddd25704ffd72a4b1
+SHA256: 6d7e1154c37041ae0cd0a5864c94c53197139ffb79dc2c7886beca71c04f9e73
+SileoDepiction: https://madramdesign.github.io/repo/depiction.json

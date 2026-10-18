@@ -39,7 +39,14 @@ def deb_control(path: Path):
     else:
         blob = gzip.decompress(control)
     with tarfile.open(fileobj=io.BytesIO(blob), mode="r:") as tar:
-        member = tar.extractfile("./control") or tar.extractfile("control")
+        member = None
+        for name in ("./control", "control"):
+            try:
+                member = tar.extractfile(name)
+            except KeyError:
+                member = None
+            if member is not None:
+                break
         if member is None:
             raise SystemExit(f"{path.name} control archive has no control file")
         return BytesParser().parsebytes(member.read())
