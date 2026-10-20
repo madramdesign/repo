@@ -75,7 +75,11 @@ def stanza(path: Path) -> str:
     lines.append(f"MD5sum: {hashlib.md5(payload).hexdigest()}")
     lines.append(f"SHA1: {hashlib.sha1(payload).hexdigest()}")
     lines.append(f"SHA256: {hashlib.sha256(payload).hexdigest()}")
-    lines.append(f"SileoDepiction: {DEPICTION}")
+    package = control.get("Package")
+    depiction = DEPICTION
+    if package and (ROOT / "depictions" / f"{package}.json").is_file():
+        depiction = f"https://madramdesign.github.io/repo/depictions/{package}.json"
+    lines.append(f"SileoDepiction: {depiction}")
     return "\n".join(lines)
 
 

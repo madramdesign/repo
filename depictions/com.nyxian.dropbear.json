@@ -1,0 +1,17 @@
+{
+  "minVersion": "0.1",
+  "tabs": [
+    {
+      "tabname": "Details",
+      "views": [
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "A home screen icon named Shell. Tap it to start Dropbear on port 2222 and show the ssh command for the mobile account.\n\nLeave the password field blank to keep the current mobile password. A blank password cannot log in. Respring once after installing so the icon appears.",
+          "useSpacing": true
+        }
+      ],
+      "class": "DepictionStackView"
+    }
+  ],
+  "class": "DepictionTabView"
+}
