@@ -1,0 +1,48 @@
+Package: com.nyxian.dock
+Name: Dock
+Version: 1.0.0
+Architecture: iphoneos-arm64e
+Maintainer: local
+Section: Tweaks
+Depends: ellekit | mobilesubstrate
+Description: A dock bar and home screen icons for Nyxian.
+ Safari, Phone, Messages, Mail, and Maps open on the iPhone.
+ Calendar, Notes, and Calculator open inside the ROM.
+ FaceTime, the App Store, Timer, Home, and Switcher start off.
+Filename: ./debs/com.nyxian.dock_1.0.0_iphoneos-arm64e.deb
+Size: 39654
+MD5sum: 7fdc2af76d24c061c034791027dcc840
+SHA1: 2af00d9cd9bcd19ceee33e8ca98a8a56656c4ddb
+SHA256: 69d6fc8b156ee4d01322e67a843c50111b4f166c488ecf44a8bc037a58a51e1e
+SileoDepiction: https://madramdesign.github.io/repo/depictions/com.nyxian.dock.json
+
+Package: com.nyxian.dropbear
+Name: Shell
+Version: 1.2.15
+Architecture: iphoneos-arm64e
+Maintainer: local
+Section: Tweaks
+Depends: ellekit | mobilesubstrate
+Description: Home screen app that starts Dropbear on port 2222.
+ Tap Shell, enter a mobile password or leave it blank, and the screen shows the ssh command.
+ Blank passwords stay rejected. launchctl is not used.
+Filename: ./debs/com.nyxian.dropbear_1.2.15_iphoneos-arm64e.deb
+Size: 160810
+MD5sum: 404d9139d5ca30560ddbcf0d6d51c2fd
+SHA1: ab1f423b04f6afdd3a2d3b8e5351ec89303da1e3
+SHA256: e3d27f81919758313a182ab4111952ae8945b20f82d7d90c6b34b40127df2cdb
+SileoDepiction: https://madramdesign.github.io/repo/depictions/com.nyxian.dropbear.json
+
+Package: com.nyxian.nxicontime
+Name: NXIconTime
+Version: 0.5.5
+Architecture: iphoneos-arm64e
+Maintainer: local
+Section: Tweaks
+Description: One home screen icon with an Apple-style clock face.
+Filename: ./debs/com.nyxian.nxicontime_0.5.5_iphoneos-arm64e.deb
+Size: 21616
+MD5sum: 46eb4ae450c277853f05f4307e196c19
+SHA1: 016a4fb0bbe1beb19a7b19232b0429ebb480f069
+SHA256: b008804bc229d5bc86e8b71ac0b6421978ae8630f6b371eb63c72a694a4b2ca3
+SileoDepiction: https://madramdesign.github.io/repo/depiction.json

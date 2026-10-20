@@ -1,0 +1,21 @@
+Origin: repo
+Label: repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm64e
+Components: main
+Description: Sileo package source.
+Date: Tue, 20 Oct 2026 23:27:50 +0000
+MD5Sum:
+ eb35d8dfe761fdc2155d5d9f12d8366d 1896 Packages
+ f7e3244d41b31275546cf65f964ded57 901 Packages.gz
+ d0d695fb8645ae3a7a458075f7fafdfb 1008 Packages.bz2
+SHA1:
+ aa11381be3078a4d89f602e1f9abe301944425c7 1896 Packages
+ 4c447897eb4695a6db0ce77e530edd32b297047c 901 Packages.gz
+ 6ced0923883c258135d4e374f98a3f680cf82db6 1008 Packages.bz2
+SHA256:
+ ca4b68257e30b9b7ecdbf651bf634e056cd891154acb6f16c50dadd4eea54e44 1896 Packages
+ 652a13a8dadcde54d7cb79bcead15733544c1f3033f1bfae463ed873ba9187cc 901 Packages.gz
+ 694d6c17e460382aff7126bed5eabbbf8b8fc7ea25e271833dc89c061e93574c 1008 Packages.bz2
