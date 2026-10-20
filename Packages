@@ -1,3 +1,21 @@
+Package: com.nyxian.dock
+Name: Dock
+Version: 1.0.0
+Architecture: iphoneos-arm64e
+Maintainer: local
+Section: Tweaks
+Depends: ellekit | mobilesubstrate
+Description: A dock bar and home screen icons for Nyxian.
+ Safari, Phone, Messages, Mail, and Maps open on the iPhone.
+ Calendar, Notes, and Calculator open inside the ROM.
+ FaceTime, the App Store, Timer, Home, and Switcher start off.
+Filename: ./debs/com.nyxian.dock_1.0.0_iphoneos-arm64e.deb
+Size: 39654
+MD5sum: 7fdc2af76d24c061c034791027dcc840
+SHA1: 2af00d9cd9bcd19ceee33e8ca98a8a56656c4ddb
+SHA256: 69d6fc8b156ee4d01322e67a843c50111b4f166c488ecf44a8bc037a58a51e1e
+SileoDepiction: https://madramdesign.github.io/repo/depictions/com.nyxian.dock.json
+
 Package: com.nyxian.dropbear
 Name: Shell
 Version: 1.1.10

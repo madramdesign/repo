@@ -1,0 +1,17 @@
+{
+  "minVersion": "0.1",
+  "tabs": [
+    {
+      "tabname": "Details",
+      "views": [
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "A bar behind the home screen icons, plus icons for the phone and the ROM.\n\nSafari, Phone, Messages, Mail, and Maps open on the iPhone. Calendar, Notes, and Calculator open inside the ROM. FaceTime, the App Store, Timer, Home, and Switcher start off. Change the bar and the icons under Dock in Tweak Settings. Respring once after installing so the icons appear.",
+          "useSpacing": true
+        }
+      ],
+      "class": "DepictionStackView"
+    }
+  ],
+  "class": "DepictionTabView"
+}
