@@ -18,7 +18,7 @@ SileoDepiction: https://madramdesign.github.io/repo/depictions/com.nyxian.dock.j
 
 Package: com.nyxian.dropbear
 Name: Shell
-Version: 1.2.14
+Version: 1.2.15
 Architecture: iphoneos-arm64e
 Maintainer: local
 Section: Tweaks
@@ -26,11 +26,11 @@ Depends: ellekit | mobilesubstrate
 Description: Home screen app that starts Dropbear on port 2222.
  Tap Shell, enter a mobile password or leave it blank, and the screen shows the ssh command.
  Blank passwords stay rejected. launchctl is not used.
-Filename: ./debs/com.nyxian.dropbear_1.2.14_iphoneos-arm64e.deb
+Filename: ./debs/com.nyxian.dropbear_1.2.15_iphoneos-arm64e.deb
 Size: 160810
-MD5sum: 91cd9f0a07023ab78568d67bfdb4ace1
-SHA1: b8a20d6726e5a9c551d1db89893c1b6e2ceacb37
-SHA256: d4295f76c2fa3dc9b831423432edd9065253e1ee096930bcc21f98e575ff9d4d
+MD5sum: 404d9139d5ca30560ddbcf0d6d51c2fd
+SHA1: ab1f423b04f6afdd3a2d3b8e5351ec89303da1e3
+SHA256: e3d27f81919758313a182ab4111952ae8945b20f82d7d90c6b34b40127df2cdb
 SileoDepiction: https://madramdesign.github.io/repo/depictions/com.nyxian.dropbear.json
 
 Package: com.nyxian.nxicontime
