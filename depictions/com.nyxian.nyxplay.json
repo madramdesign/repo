@@ -1,0 +1,17 @@
+{
+  "minVersion": "0.1",
+  "tabs": [
+    {
+      "tabname": "Details",
+      "views": [
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "AirPlay 1 speaker and song player.\n\nOpen NyxPlay, choose a song, or pick it from AirPlay on another device. `nyxplay file.mp3` still plays a local file. Install and update this package from Sileo. Refresh sources after a new version is published. GitHub Pages can take a few minutes to show the new package.",
+          "useSpacing": true
+        }
+      ],
+      "class": "DepictionStackView"
+    }
+  ],
+  "class": "DepictionTabView"
+}
